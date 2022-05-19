@@ -5,3 +5,5 @@ purple fish
 yellow fish 
 climbing deer
 tree snakes 
+tree rocks
+tree people 
